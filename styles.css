@@ -16,7 +16,12 @@ body {
     transition: 100ms;
   }
 
-  
+  .header {
+    display: flex;
+    color: rgb(13, 74, 20);
+    justify-content: center;
+    
+  }
   
   .selection:hover {
     transform: scale(1.2);
